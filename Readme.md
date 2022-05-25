@@ -23,4 +23,3 @@ Execute o client:
 ```bash
 python client.py
 ```
-Acesse o arquivo html gerado com os valores plotados no gráfico
